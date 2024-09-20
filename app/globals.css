@@ -22,6 +22,8 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   color: var(--foreground);
   background: var(--background);
+  --scroll-behavior: smooth !important;
+  scroll-behavior: smooth !important;
 }
 
 @layer utilities {
@@ -29,7 +31,6 @@ body {
     text-wrap: balance;
   }
 }
-
 
 a {
   color: inherit;

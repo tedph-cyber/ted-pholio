@@ -7,7 +7,7 @@ export default function Section() {
   return (
     <section>
       <div id="project">
-        <h3 className="text-3xl text-black dark:text-neutral-600 py-1">
+        <h3 className="text-3xl flex justify-center text-black dark:text-neutral-400 py-4">
           Services I offer
         </h3>
         <p className="text-md py-2 leading-8 text-black dark:text-gray-600">
