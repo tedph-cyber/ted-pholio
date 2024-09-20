@@ -61,9 +61,9 @@ export default function Header() {
           </Link>
         </div>
         <div className="flex items-center gap-5 md:gap-6">
-          <a href="/signin" className="text-black">
+          <a href="wa.me/+2349036011196" className="text-black">
             <AiOutlineUser className="mx-2 text-black" />
-            Account
+            Contact me
           </a>
           <button
             className="rounded-full px-2 text-black aspect-square items-center flex dark:text-white border-black dark:border-white"
